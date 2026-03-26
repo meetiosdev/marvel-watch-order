@@ -65,9 +65,9 @@ document.addEventListener('DOMContentLoaded', () => {
                         ` : ''}
                     </div>
                     <div class="m-links">
-                        ${healthBadge}
                         ${torrentButton}
                         ${magnetButton}
+                        ${healthBadge}
                     </div>
                 </div>
             `;
