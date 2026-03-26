@@ -414,7 +414,36 @@ footer {
     background-color: #ef4444;
     box-shadow: 0 0 8px #ef4444;
 }
+.health-blue {
+    background-color: #3b82f6;
+    box-shadow: 0 0 8px #3b82f6;
+}
 .health-unknown {
     background-color: #6b7280;
     opacity: 0.5;
+}
+
+/* Legend Box */
+.health-legend-box {
+    background: var(--card-bg);
+    border: 1px solid var(--card-border);
+    backdrop-filter: var(--glass-blur);
+    border-radius: 12px;
+    padding: 1rem 1.5rem;
+    margin: 0 auto 3rem;
+    max-width: fit-content;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+}
+
+.legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    font-weight: 500;
 }

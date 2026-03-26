@@ -33,12 +33,14 @@ def check_magnet_health(magnet_link, timeout=15):
     s = handle.status()
     print(f"  -> Seeds: {s.num_seeds}, Peers: {s.num_peers}")
     
-    if s.num_seeds >= 10:
-        return 'green'
+    if s.num_seeds >= 20:
+        return 'green' # Best
+    elif s.num_seeds >= 10:
+        return 'blue'  # Better
     elif s.num_seeds > 0:
-        return 'yellow'
+        return 'yellow' # Good
     else:
-        return 'red'
+        return 'red' # Bad
 
 def update_movies_js(filepath='movies.js'):
     if not os.path.exists(filepath):
