@@ -22,12 +22,25 @@ document.addEventListener('DOMContentLoaded', () => {
                     <i data-lucide="download"></i> Add link in movies.js
                    </button>`;
                    
-            const healthClass = movie.magnetHealth ? `health-${movie.magnetHealth}` : 'health-unknown';
-            const healthTitle = movie.magnetHealth ? `Health: ${movie.magnetHealth.toUpperCase()}` : 'Health: Unknown';
+            const healthMap = {
+                'green': 'Best',
+                'blue': 'Better',
+                'yellow': 'Good',
+                'red': 'Bad',
+                'unknown': 'Unknown'
+            };
+            const healthVal = movie.magnetHealth || 'unknown';
+            const healthLabel = healthMap[healthVal] || 'Unknown';
+            const healthClass = `health-${healthVal}`;
+            const statusClass = `status-${healthVal}`;
             
+            const healthBadge = `<div class="health-status-badge ${statusClass}">
+                <span class="health-dot ${healthClass}"></span> Health: ${healthLabel}
+            </div>`;
+
             const magnetButton = movie.magnetUrl
-                ? `<a href="${movie.magnetUrl}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer" title="${healthTitle}">
-                    <i data-lucide="magnet"></i> Magnet Link <span class="health-dot ${healthClass}"></span>
+                ? `<a href="${movie.magnetUrl}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
+                    <i data-lucide="magnet"></i> Magnet Link
                    </a>`
                 : `<button class="btn btn-disabled" disabled>
                     <i data-lucide="magnet"></i> Add link in movies.js
@@ -52,6 +65,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         ` : ''}
                     </div>
                     <div class="m-links">
+                        ${healthBadge}
                         ${torrentButton}
                         ${magnetButton}
                     </div>
