@@ -9,9 +9,9 @@ const moviesData = [
                 setIn: "1942–1945",
                 description: "During World War II, a brave, unyielding young man named Steve Rogers is deemed unfit for military service. He volunteers for a top-secret research project that turns him into Captain America, a superhero dedicated to defending America's ideals.",
                 notes: "This is the literal foundation of the MCU timeline. Pay close attention to the Tesseract (the Space Stone) and the introduction of Bucky Barnes and Howard Stark (Tony Stark’s father).",
-                torrentUrl: "",
-                magnetUrl: "",
-                magnetHealth: "unknown"
+                torrentUrl: "https://x1337x.cc/torrent/1714187/Captain-America-The-First-Avenger-2011-1080p-BluRay-AC3-X264-ETRG/",
+                magnetUrl: "magnet:?xt=urn:btih:C89D7ADB894DF1424897BD70326F467B9BC0BC4D&dn=Captain.America.The.First.Avenger.2011.1080p.BluRay.AC3.X264-ETRG&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Fthetracker.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Feddie4.nl%3A6969%2Fannounce&tr=udp%3A%2F%2Fzer0day.ch%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.sktorrent.net%3A6969%2Fannounce&tr=udp%3A%2F%2F9.rarbg.me%3A2780%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Ftorrent.gresille.org%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.aletorrenty.pl%3A2710%2Fannounce&tr=udp%3A%2F%2Ftracker.piratepublic.com%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+                magnetHealth: "yellow"
             },
             {
                 id: 2,
