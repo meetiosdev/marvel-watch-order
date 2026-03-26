@@ -10,7 +10,8 @@ const moviesData = [
                 description: "During World War II, a brave, unyielding young man named Steve Rogers is deemed unfit for military service. He volunteers for a top-secret research project that turns him into Captain America, a superhero dedicated to defending America's ideals.",
                 notes: "This is the literal foundation of the MCU timeline. Pay close attention to the Tesseract (the Space Stone) and the introduction of Bucky Barnes and Howard Stark (Tony Stark’s father).",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 2,
@@ -20,7 +21,8 @@ const moviesData = [
                 description: "Set against the vibrant backdrop of a 1960s retro-futuristic world, Marvel’s First Family—Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm—face their most daunting challenge yet.",
                 notes: "Note: This takes place in an alternate universe (Earth-828). Keep an eye on how the events here might eventually lead them to cross over into the main MCU timeline, likely during the multiversal collisions in Avengers: Doomsday.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 3,
@@ -30,7 +32,8 @@ const moviesData = [
                 description: "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races, the Kree and the Skrulls.",
                 notes: "Introduces the Skrulls and a younger Nick Fury before he loses his eye. This movie also details the origin of the 'Avengers Initiative' name.",
                 torrentUrl: "https://x1337x.cc/torrent/3957016/Captain-Marvel-2019-1080p-BluRay-Hindi-English-x264-AC3-MSubs-LOKiHD-Telly/",
-                magnetUrl: "magnet:?xt=urn:btih:D91F941FDC39D2A5600A418B57EDFD56F3A9E7C4&dn=Captain+Marvel+2019+1080p+BluRay+Hindi+English+x264+AC3+MSubs+-+LOKiHD+-+Telly"
+                magnetUrl: "magnet:?xt=urn:btih:D91F941FDC39D2A5600A418B57EDFD56F3A9E7C4&dn=Captain+Marvel+2019+1080p+BluRay+Hindi+English+x264+AC3+MSubs+-+LOKiHD+-+Telly",
+                magnetHealth: "red"
             },
             {
                 id: 4,
@@ -40,7 +43,8 @@ const moviesData = [
                 description: "Billionaire engineer Tony Stark is captured by terrorists and builds a mechanized suit of armor to escape. Upon returning home, he refines the suit to fight crime and terrorism.",
                 notes: "The movie that started the real-world MCU phenomenon. Watch for the post-credits scene where Nick Fury first approaches Tony Stark about the Avengers Initiative.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 5,
@@ -50,7 +54,8 @@ const moviesData = [
                 description: "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military.",
                 notes: "This movie introduces Natasha Romanoff (Black Widow) and James 'Rhodey' Rhodes taking on the War Machine mantle. It takes place during 'Fury's Big Week', overlapping with the events of Thor and The Incredible Hulk.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 6,
@@ -60,7 +65,8 @@ const moviesData = [
                 description: "Scientist Bruce Banner frantically scours the Earth for an antidote to the gamma radiation that has cursed him to turn into the massive green beast known as the Hulk when angered.",
                 notes: "The events here happen concurrently with Iron Man 2 and Thor. Pay attention to General Thaddeus 'Thunderbolt' Ross, a character who returns significantly later in the MCU.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 7,
@@ -70,7 +76,8 @@ const moviesData = [
                 description: "The powerful, but arrogant god Thor is cast out of Asgard to live amongst humans in Midgard (Earth), where he soon becomes one of their finest defenders.",
                 notes: "Introduces Loki, the God of Mischief, and Clint Barton (Hawkeye). Sets the stage for the cosmic side of the MCU.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 8,
@@ -80,7 +87,8 @@ const moviesData = [
                 description: "Earth's mightiest heroes—Iron Man, Captain America, Hulk, Thor, Black Widow, and Hawkeye—must come together and learn to fight as a team to stop the mischievous Loki and his alien army from enslaving humanity.",
                 notes: "The monumental culmination of Phase 1. It establishes the true scale of the MCU and introduces Thanos in the mid-credits scene as the overarching villain.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             }
         ]
     },
@@ -95,7 +103,8 @@ const moviesData = [
                 description: "Following the terrifying events of New York, Tony Stark experiences massive PTSD. His world is torn apart by a formidable terrorist called the Mandarin, forcing him to rebuild and discover his true nature.",
                 notes: "Set just six months after The Avengers. Explores Tony's psychological trauma, which influences his decisions in Age of Ultron and Civil War.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 10,
@@ -105,7 +114,8 @@ const moviesData = [
                 description: "When the Dark Elves attempt to plunge the universe into darkness, Thor must embark on a perilous and personal journey that will reunite him with Jane Foster and force him to sacrifice everything to save us all.",
                 notes: "Crucial for introducing the Aether, later revealed to be the Reality Stone (the second Infinity Stone shown in the MCU).",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 11,
@@ -115,7 +125,8 @@ const moviesData = [
                 description: "Steve Rogers struggles to embrace his role in the modern world while battling a new threat from history: a Soviet agent known as the Winter Soldier.",
                 notes: "A gritty espionage thriller. Drastically changes the MCU status quo by destroying S.H.I.E.L.D. from the inside and introducing Sam Wilson (Falcon).",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 12,
@@ -125,7 +136,8 @@ const moviesData = [
                 description: "A group of intergalactic criminals must pull together to stop a fanatical warrior with plans to purge the universe using a mysterious orb.",
                 notes: "Massively expands the cosmic MCU. Introduces the Power Stone, the Nova Corps, and features Thanos in a prominent speaking role.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 13,
@@ -135,7 +147,8 @@ const moviesData = [
                 description: "The Guardians struggle to keep together as a team while dealing with their personal family issues, specifically Star-Lord's encounter with his father, the ambitious celestial being Ego.",
                 notes: "Set mere months after the first Guardians film. Introduces Mantis and deepens the emotional bonds of the team.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 14,
@@ -145,7 +158,8 @@ const moviesData = [
                 description: "When Tony Stark and Bruce Banner try to jump-start a dormant peacekeeping program called Ultron, things go horribly wrong and it's up to Earth's mightiest heroes to stop the villainous AI.",
                 notes: "Introduces Wanda Maximoff (Scarlet Witch) and Vision. Also introduces the Mind Stone housed within Loki's scepter and later Vision's forehead.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 15,
@@ -155,7 +169,8 @@ const moviesData = [
                 description: "Armed with a super-suit with the astonishing ability to shrink in scale but increase in strength, cat burglar Scott Lang must embrace his inner hero and help his mentor, Dr. Hank Pym.",
                 notes: "The first mention and glimpse of the Quantum Realm, a concept that becomes incredibly important for Avengers: Endgame and Phase 5.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             }
         ]
     },
@@ -170,7 +185,8 @@ const moviesData = [
                 description: "Political involvement in the Avengers' affairs causes a rift between Captain America and Iron Man, leading to a massive conflict and the fracturing of the Avengers.",
                 notes: "Functions almost as 'Avengers 2.5'. Introduces King T'Challa (Black Panther) and Peter Parker (Spider-Man).",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 17,
@@ -180,7 +196,8 @@ const moviesData = [
                 description: "Natasha Romanoff confronts the darker parts of her ledger when a dangerous conspiracy with ties to her past arises. She must deal with her history as a spy and the broken relationships left in her wake.",
                 notes: "Set immediately after Civil War while Natasha is on the run. Watching them back-to-back delivers a fantastic, continuous spy-thriller experience. Introduces Yelena Belova.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 18,
@@ -190,7 +207,8 @@ const moviesData = [
                 description: "T'Challa, heir to the hidden but advanced kingdom of Wakanda, must step forward to lead his people into a new future while confronting a challenger from his country's past.",
                 notes: "Takes place roughly a week after T'Chaka's death in Civil War. Unveils Wakanda to the rest of the world, setting up critical battlegrounds in Infinity War.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 19,
@@ -200,7 +218,8 @@ const moviesData = [
                 description: "Peter Parker balances his life as an ordinary high school student in Queens with his superhero alter-ego Spider-Man, and finds himself on the trail of a new menace prowling the skies of New York City.",
                 notes: "Explores a ground-level view of the MCU and the aftermath of previous Avengers battles (salvaging Chitauri tech).",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 20,
@@ -210,7 +229,8 @@ const moviesData = [
                 description: "While on a journey of physical and spiritual healing, a brilliant neurosurgeon is drawn into the world of the mystic arts, discovering an alternate dimension of magic and powerful artifacts.",
                 notes: "Introduces the concept of the Multiverse and the Time Stone hidden within the Eye of Agamotto.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 21,
@@ -220,7 +240,8 @@ const moviesData = [
                 description: "Imprisoned on the planet Sakaar, Thor must race against time to return to Asgard and stop Ragnarök, the destruction of his world, at the hands of the powerful and ruthless villain Hela.",
                 notes: "Changes the tone of Thor's franchise. Leads directly into the opening sequence of Avengers: Infinity War. Hulk's long absence since Age of Ultron is also explained here.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 22,
@@ -230,7 +251,8 @@ const moviesData = [
                 description: "As Scott Lang balances being both a superhero and a father, Hope van Dyne and Dr. Hank Pym present an urgent new mission that finds the Ant-Man fighting alongside The Wasp to uncover secrets from their past.",
                 notes: "Takes place right before (and during) the events of Infinity War. The post-credits scene is absolutely essential for understanding how Endgame begins.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 23,
@@ -240,7 +262,8 @@ const moviesData = [
                 description: "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to half the universe.",
                 notes: "The climax of the Infinity Saga Part 1. Every character arc and plotline from the previous 10 years of movies converges here.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             }
         ]
     },
@@ -255,7 +278,8 @@ const moviesData = [
                 description: "After the devastating events of Infinity War, the remaining Avengers assemble once more in order to reverse Thanos' actions and restore balance to the universe through a daring 'Time Heist'.",
                 notes: "Starts right after Infinity War, then jumps exactly 5 years into 2023. Nearly everything moving forward in the MCU deals with the trauma and consequences of 'The Blip'.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 25,
@@ -265,7 +289,8 @@ const moviesData = [
                 description: "Shang-Chi, the master of weaponry-based Kung Fu, is forced to confront his past after being drawn into the clandestine Ten Rings organization.",
                 notes: "Explores the real Ten Rings organization (previously teased in Iron Man and Iron Man 3) and introduces Ta Lo, adding deep mystical lore to the MCU.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 26,
@@ -275,7 +300,8 @@ const moviesData = [
                 description: "Following the events of Avengers: Endgame, Spider-Man must step up to take on new threats in a world that has changed forever when he travels to Europe on a school trip.",
                 notes: "Set 8 months after Endgame. Deals heavily with Tony Stark's death and how the world has visually and structurally adjusted to 'The Blip's reversal.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 27,
@@ -285,7 +311,8 @@ const moviesData = [
                 description: "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations, who are forced to reunite to fight humanity's oldest enemy, the Deviants.",
                 notes: "Expands the cosmic mythology of the MCU massively, explaining the Celestials and the origins of the universe.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 28,
@@ -295,7 +322,8 @@ const moviesData = [
                 description: "With Spider-Man's identity now revealed, Peter asks Doctor Strange for help. When a spell goes wrong, dangerous foes from other worlds start to appear, forcing Peter to discover what it truly means to be Spider-Man.",
                 notes: "Immediately follows Far From Home. Breaks open the Multiverse literally on Earth for the first time, bringing in legacy non-MCU characters.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 29,
@@ -305,7 +333,8 @@ const moviesData = [
                 description: "Doctor Strange tests the limits of the multiverse alongside his trusted friend Wong and Wanda Maximoff as he tries to protect a young girl who can traverse different realities.",
                 notes: "Shows the psychological aftermath for Wanda Maximoff and features terrifying implications of multiversal travel and incursions.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 30,
@@ -315,7 +344,8 @@ const moviesData = [
                 description: "Thor enlists the help of Valkyrie, Korg and ex-girlfriend Jane Foster to fight Gorr the God Butcher, who intends to make the gods extinct.",
                 notes: "Shows Thor finding his purpose post-Endgame and introduces eternity, a cosmic entity.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 31,
@@ -325,7 +355,8 @@ const moviesData = [
                 description: "The people of Wakanda fight to protect their home from intervening world powers as they mourn the death of King T'Challa, while facing an impending threat from an underwater civilization.",
                 notes: "A powerful, emotional film addressing the real-world passing of Chadwick Boseman. Introduces Namor and the mutant underwater kingdom of Talokan.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             }
         ]
     },
@@ -340,7 +371,8 @@ const moviesData = [
                 description: "Scott Lang and Hope Van Dyne, along with Hank Pym and Janet Van Dyne, explore the Quantum Realm, where they interact with strange creatures and embark on an adventure that goes beyond the limits of what they thought was possible.",
                 notes: "Formally introduces Kang the Conqueror, cementing the driving plotline of the Multiverse Saga.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 33,
@@ -350,7 +382,8 @@ const moviesData = [
                 description: "Still reeling from the loss of Gamora, Peter Quill rallies his team to defend the universe and one of their own - a mission that could mean the end of the Guardians if not successful.",
                 notes: "The emotional send-off for the original Guardians lineup. Focuses heavily on Rocket's tragic backstory and the High Evolutionary.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 34,
@@ -360,7 +393,8 @@ const moviesData = [
                 description: "Carol Danvers gets her powers entangled with those of Kamala Khan and Monica Rambeau, forcing them to work together to save the universe.",
                 notes: "Ties together plot threads from Captain Marvel, WandaVision and Ms. Marvel. The post-credits scene is pivotal for the larger Multiverse Saga.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 35,
@@ -370,7 +404,8 @@ const moviesData = [
                 description: "Wolverine is recovering from his injuries when he crosses paths with the loudmouth, Deadpool. They team up to defeat a common enemy and accidentally alter the fabric of their respective timelines.",
                 notes: "Explicitly pulls the Fox X-Men characters formally into the multiversal narrative of the MCU. Heavy fourth-wall breaks and multiversal concepts like the TVA.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 36,
@@ -380,7 +415,8 @@ const moviesData = [
                 description: "Sam Wilson is officially taking up the mantle of Captain America, stepping into a volatile political landscape.",
                 notes: "Focuses on global politics in the post-Blip world and the remnants of Tiamut (the Celestial from Eternals).",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 37,
@@ -390,7 +426,8 @@ const moviesData = [
                 description: "A group of antiheroes and former villains goes on covert missions for the United States government.",
                 notes: "Brings together characters like Yelena Belova, Bucky Barnes, US Agent, and Red Guardian. Connects deeply to the espionage roots of the MCU.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 38,
@@ -400,7 +437,8 @@ const moviesData = [
                 description: "Peter Parker is now an experienced, isolated hero navigating a vastly different life in New York, four years after everyone forgot his existence.",
                 notes: "The deliberate jump from No Way Home (2024) to this (2028) showcases Peter's struggle and maturity as a standalone hero before the impending multiversal crisis.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             },
             {
                 id: 39,
@@ -410,7 +448,8 @@ const moviesData = [
                 description: "The massive multiversal collision event that threatens to destroy entirely separate realities, bringing Earth's mightiest heroes face-to-face with the supreme threat of Doctor Doom.",
                 notes: "The 'dot' from the alternate 1964 timeline of Fantastic Four: First Steps connects incredibly here when they cross over into the main MCU universe. The climax of the Multiverse Saga part 1.",
                 torrentUrl: "",
-                magnetUrl: ""
+                magnetUrl: "",
+                magnetHealth: "unknown"
             }
         ]
     }

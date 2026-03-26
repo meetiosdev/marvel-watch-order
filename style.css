@@ -391,3 +391,30 @@ footer {
         justify-content: center;
     }
 }
+
+/* Health Indicator */
+.health-dot {
+    display: inline-block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    margin-left: 8px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.5);
+    transition: all 0.3s ease;
+}
+.health-green {
+    background-color: #22c55e;
+    box-shadow: 0 0 8px #22c55e;
+}
+.health-yellow {
+    background-color: #eab308;
+    box-shadow: 0 0 8px #eab308;
+}
+.health-red {
+    background-color: #ef4444;
+    box-shadow: 0 0 8px #ef4444;
+}
+.health-unknown {
+    background-color: #6b7280;
+    opacity: 0.5;
+}

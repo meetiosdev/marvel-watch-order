@@ -22,9 +22,12 @@ document.addEventListener('DOMContentLoaded', () => {
                     <i data-lucide="download"></i> Add link in movies.js
                    </button>`;
                    
+            const healthClass = movie.magnetHealth ? `health-${movie.magnetHealth}` : 'health-unknown';
+            const healthTitle = movie.magnetHealth ? `Health: ${movie.magnetHealth.toUpperCase()}` : 'Health: Unknown';
+            
             const magnetButton = movie.magnetUrl
-                ? `<a href="${movie.magnetUrl}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer">
-                    <i data-lucide="magnet"></i> Magnet Link
+                ? `<a href="${movie.magnetUrl}" class="btn btn-secondary" target="_blank" rel="noopener noreferrer" title="${healthTitle}">
+                    <i data-lucide="magnet"></i> Magnet Link <span class="health-dot ${healthClass}"></span>
                    </a>`
                 : `<button class="btn btn-disabled" disabled>
                     <i data-lucide="magnet"></i> Add link in movies.js
