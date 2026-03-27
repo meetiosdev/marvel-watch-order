@@ -64,9 +64,9 @@ const moviesData = [
                 setIn: "2011",
                 description: "Scientist Bruce Banner frantically scours the Earth for an antidote to the gamma radiation that has cursed him to turn into the massive green beast known as the Hulk when angered.",
                 notes: "The events here happen concurrently with Iron Man 2 and Thor. Pay attention to General Thaddeus 'Thunderbolt' Ross, a character who returns significantly later in the MCU.",
-                torrentUrl: "",
-                magnetUrl: "",
-                magnetHealth: "unknown"
+                torrentUrl: "https://x1337x.cc/torrent/4771993/The-Incredible-Hulk-2008-1080p-BluRay-x264-Dual-Audio-Hindi-English-AC3-5-1-MeGUiL/",
+                magnetUrl: "magnet:?xt=urn:btih:000CE1912B2E42F8AD48A4731F5C4B47C46EAA49&dn=The+Incredible+Hulk+%282008%29+1080p+BluRay+x264+Dual+Audio+Hindi+English+AC3+5.1+-+MeGUiL&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.foreverpirates.co%3A80%2Fannounce&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Finferno.demonoid.is%3A3391%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.files.fm%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+                magnetHealth: "red"
             },
             {
                 id: 7,
