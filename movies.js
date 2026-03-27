@@ -42,9 +42,9 @@ const moviesData = [
                 setIn: "2010",
                 description: "Billionaire engineer Tony Stark is captured by terrorists and builds a mechanized suit of armor to escape. Upon returning home, he refines the suit to fight crime and terrorism.",
                 notes: "The movie that started the real-world MCU phenomenon. Watch for the post-credits scene where Nick Fury first approaches Tony Stark about the Avengers Initiative.",
-                torrentUrl: "",
-                magnetUrl: "",
-                magnetHealth: "unknown"
+                torrentUrl: "https://x1337x.cc/torrent/4777136/Iron-Man-2008-REMASTERED-1080p-BluRay-x264-Dual-Audio-Hindi-English-AC3-5-1-MeGUiL/",
+                magnetUrl: "magnet:?xt=urn:btih:2CA16C0DEB7DDEAF641403626001853468EF53A8&dn=Iron+Man+%282008%29+REMASTERED+1080p+BluRay+x264+Dual+Audio+Hindi+English+AC3+5.1+-+MeGUiL&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.foreverpirates.co%3A80%2Fannounce&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Finferno.demonoid.is%3A3391%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.files.fm%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+                magnetHealth: "yellow"
             },
             {
                 id: 5,
