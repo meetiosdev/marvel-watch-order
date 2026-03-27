@@ -3,6 +3,7 @@ import time
 import sys
 import re
 import os
+import tempfile
 
 def check_magnet_health(magnet_link, timeout=15):
     if not magnet_link or magnet_link.strip() == "":
@@ -11,8 +12,8 @@ def check_magnet_health(magnet_link, timeout=15):
     print(f"Checking link: {magnet_link[:50]}...")
     ses = lt.session({'listen_interfaces': '0.0.0.0:6881'})
     params = {
-        'save_path': '.', 
-        'storage_mode': lt.storage_mode_t.storage_mode_sparse,
+        'save_path': tempfile.gettempdir(), # Use OS temp dir to prevent junk folders
+        'storage_mode': lt.storage_mode_t(2), # storage_mode_sparse
     }
     
     try:
