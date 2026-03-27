@@ -31,9 +31,9 @@ const moviesData = [
                 setIn: "1995",
                 description: "Carol Danvers becomes one of the universe's most powerful heroes when Earth is caught in the middle of a galactic war between two alien races, the Kree and the Skrulls.",
                 notes: "Introduces the Skrulls and a younger Nick Fury before he loses his eye. This movie also details the origin of the 'Avengers Initiative' name.",
-                torrentUrl: "https://x1337x.cc/torrent/3957016/Captain-Marvel-2019-1080p-BluRay-Hindi-English-x264-AC3-MSubs-LOKiHD-Telly/",
-                magnetUrl: "magnet:?xt=urn:btih:D91F941FDC39D2A5600A418B57EDFD56F3A9E7C4&dn=Captain+Marvel+2019+1080p+BluRay+Hindi+English+x264+AC3+MSubs+-+LOKiHD+-+Telly",
-                magnetHealth: "red"
+                torrentUrl: "https://x1337x.cc/torrent/3787294/Captain-Marvel-2019-1080p-Proper-HDRip-Line-Auds-Tamil-Telugu-Hindi-Eng-x264-1-8GB-ESubs/",
+                magnetUrl: "magnet:?xt=urn:btih:786AF6604B67150728720FC46385BB82E35F07FD&dn=Captain+Marvel+%282019%29+%5B1080p+Proper+HDRip+-+Line+Auds+%5BTamil+%2B+Telugu+%2B+Hindi+%2B+Eng%5D+-+x264+-+1.8GB+-+ESubs%5D&tr=udp%3A%2F%2Ftracker.coppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2F9.rarbg.to%3A2710%2Fannounce&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker1.itzmx.com%3A8080%2Fannounce&tr=udp%3A%2F%2Fexplodie.org%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker3.itzmx.com%3A6961%2Fannounce&tr=udp%3A%2F%2Ftracker.port443.xyz%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+                magnetHealth: "yellow"
             },
             {
                 id: 4,
