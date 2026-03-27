@@ -53,9 +53,9 @@ const moviesData = [
                 setIn: "2011",
                 description: "With the world now aware of his dual life as the armored superhero Iron Man, billionaire inventor Tony Stark faces pressure from the government, the press, and the public to share his technology with the military.",
                 notes: "This movie introduces Natasha Romanoff (Black Widow) and James 'Rhodey' Rhodes taking on the War Machine mantle. It takes place during 'Fury's Big Week', overlapping with the events of Thor and The Incredible Hulk.",
-                torrentUrl: "",
-                magnetUrl: "",
-                magnetHealth: "unknown"
+                torrentUrl: "https://x1337x.cc/torrent/4777137/Iron-Man-2-2010-REMASTERED-1080p-BluRay-x264-Dual-Audio-Hindi-English-AC3-5-1-MeGUiL/",
+                magnetUrl: "magnet:?xt=urn:btih:33736832750D9898C722C0A856DC08A4016F3105&dn=Iron+Man+2+%282010%29+REMASTERED+1080p+BluRay+x264+Dual+Audio+Hindi+English+AC3+5.1+-+MeGUiL&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.foreverpirates.co%3A80%2Fannounce&tr=udp%3A%2F%2F46.148.18.250%3A2710&tr=udp%3A%2F%2Fopentor.org%3A2710&tr=udp%3A%2F%2Fexodus.desync.com%3A6969%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.cyberia.is%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.dler.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.tiny-vps.com%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Finferno.demonoid.is%3A3391%2Fannounce&tr=udp%3A%2F%2Fretracker.lanta-net.ru%3A2710%2Fannounce&tr=http%3A%2F%2Ftracker.files.fm%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+                magnetHealth: "yellow"
             },
             {
                 id: 6,
