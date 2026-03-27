@@ -20,9 +20,9 @@ const moviesData = [
                 setIn: "1964",
                 description: "Set against the vibrant backdrop of a 1960s retro-futuristic world, Marvel’s First Family—Reed Richards, Sue Storm, Johnny Storm, and Ben Grimm—face their most daunting challenge yet.",
                 notes: "Note: This takes place in an alternate universe (Earth-828). Keep an eye on how the events here might eventually lead them to cross over into the main MCU timeline, likely during the multiversal collisions in Avengers: Doomsday.",
-                torrentUrl: "",
-                magnetUrl: "",
-                magnetHealth: "unknown"
+                torrentUrl: "https://x1337x.cc/torrent/6565747/The-Fantastic-Four-First-Steps-2025-bluray-sdr-1080p-av1-5-1-opus-subs-1900mb-Dust/",
+                magnetUrl: "magnet:?xt=urn:btih:1A3D55F7028BDE86A3F87D41BCA3A1FDB2604AB5&dn=The.Fantastic.Four.First.Steps.2025.bluray.sdr.1080p.av1.5.1.opus.subs.1900mb-Dust&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=udp%3A%2F%2Fopen.stealth.si%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.torrent.eu.org%3A451%2Fannounce&tr=udp%3A%2F%2Ftracker.dler.com%3A6969%2Fannounce&tr=http%3A%2F%2Ftracker.renfei.net%3A8080%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce&tr=http%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Fopentracker.i2p.rocks%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.internetwarriors.net%3A1337%2Fannounce&tr=udp%3A%2F%2Ftracker.leechers-paradise.org%3A6969%2Fannounce&tr=udp%3A%2F%2Fcoppersurfer.tk%3A6969%2Fannounce&tr=udp%3A%2F%2Ftracker.zer0day.to%3A1337%2Fannounce",
+                magnetHealth: "yellow"
             },
             {
                 id: 3,
